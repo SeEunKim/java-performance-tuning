@@ -1,4 +1,4 @@
-package example.ch01.servicelocator;
+package example.ch01.servicelocatorpattern;
 
 public class Service1 implements Service {
 

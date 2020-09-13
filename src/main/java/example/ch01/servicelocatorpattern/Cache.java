@@ -1,4 +1,4 @@
-package example.ch01.servicelocator;
+package example.ch01.servicelocatorpattern;
 
 import java.util.ArrayList;
 import java.util.List;
